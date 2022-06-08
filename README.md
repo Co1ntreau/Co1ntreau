@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Co1ntreau
 - 👀 I’m interested in IT-world
 - 🌱 I’m currently learning Data Analysis/Python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (i@voronof.ru)
 
 <!---
